@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# macOS
+.DS_Store
+._*
+
+# Swift / Xcode
+.build/
+*.xcodeproj/xcuserdata/
+DerivedData/
+*.o
+build/
+
+# Built app bundle
+*.app/
+
+# MediaPipe model (download separately)
+hand_landmarker.task
